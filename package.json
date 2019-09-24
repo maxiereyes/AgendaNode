@@ -1,0 +1,27 @@
+{
+  "name": "agenda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.1",
+    "nodemon": "^1.19.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxiereyes/AgendaNode.git"
+  },
+  "author": "Maximiliano Reyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxiereyes/AgendaNode/issues"
+  },
+  "homepage": "https://github.com/maxiereyes/AgendaNode#readme"
+}
